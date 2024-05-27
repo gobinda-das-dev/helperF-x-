@@ -13,4 +13,4 @@ It will return an object of
 - no of words?
 - no of lines?
 - array of each word
-- array of each word in each line (important)
+- array of each word in each line `important`
