@@ -9,7 +9,7 @@ Put it inside the function
 ParaSplitter(myPara);
 ```
 
-It will returns an object of
+It will return an object of
 - no of words?
 - no of lines?
 - array of each word
