@@ -4,7 +4,7 @@ const C = (e) => document.createElement(e);
 const pF = (e) => parseFloat(e);
 
 // Create a detached container for measuring
-function Para(para) {
+function ParaSplitter(para) {
   const data = {};
   
   const measureContainer = C('div');
