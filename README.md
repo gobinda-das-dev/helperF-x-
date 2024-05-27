@@ -6,7 +6,11 @@ const myPara = $('.myPara');
 ```
 Put it inside the function
 ```js
-getWidth(myPara);
+ParaSplitter(myPara);
 ```
 
-It will return the many thing including the words in a line of the paragraph you've given.
+It will returns an object of
+- no of words?
+- no of lines?
+- array of each word
+- array of each word in each line (important)
